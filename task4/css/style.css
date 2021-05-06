@@ -1,0 +1,18 @@
+td{
+	width: 55px;
+	height: 200px;
+	background:red;
+  
+}
+.prime {
+text-align:left ;
+}
+.prime2{
+  text-align: center;
+}
+.prime3{
+  text-align: right;
+}
+.prime4 {
+vertical-align:top;
+}
